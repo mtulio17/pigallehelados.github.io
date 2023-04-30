@@ -1,0 +1,18 @@
+[
+    {
+        "localidad":"Tafi Viejo",
+        "direccion":"Santa Fe 1",
+        "mapa":"https://goo.gl/maps/8PXJ2oLVZNNRhG6NA"
+    },
+    {
+        "localidad":"Villa Mariano Moreno",
+        "direccion":"Calle 5 100",
+        "mapa":"https://goo.gl/maps/ivgG7xNTG1vwH8d19"
+    }
+    ,
+    {
+        "localidad":"Alderetes",
+        "direccion":"Av. Rivadavia 631",
+        "mapa":"https://goo.gl/maps/5YFQ4nSB5uAGKj496"
+    }
+]

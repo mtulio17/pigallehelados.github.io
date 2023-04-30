@@ -1,0 +1,51 @@
+
+[
+    {
+        "id":"1",
+        "nombre": "Palitos de Crema",
+        "detalle": "Americana - Chocolate - Frutilla",
+        "imagen": "./img/palito1.png"
+    },
+    {
+        "id":2,
+        "nombre": "Palitos de Agua",
+        "detalle": "Frutilla - Limón - Naranja",
+        "imagen": "./img/palito2.png"
+    },
+    {
+        "id":3,
+        "nombre": "Palitos Bombon",
+        "detalle": "Americana - Chocolate",
+        "imagen": "./img/palito3.png"
+    },
+    {
+        "id":4,
+        "nombre": "Palitos Especiales",
+        "detalle": "Cookies - Frutilla a la Reina",
+        "imagen": "./img/palito1.png"
+    },
+    {
+        "id":10,
+        "nombre": "Familiar 3Lts N°1",
+        "detalle": "Americana - Chocolate - Frutilla",
+        "imagen": "./img/familiar2.png"
+    },
+    {
+        "id":11,
+        "nombre": "Familiar 3Lts N°2",
+        "detalle": "Frutilla - Granizado - Vainilla",
+        "imagen": "./img/familiar1.png"
+    },
+    {
+        "id":12,
+        "nombre": "Familiar 3Lts N°3",
+        "detalle": "Americana - Chocolate - Dulce de Leche",
+        "imagen": "./img/familiar3.png"
+    },
+    {
+        "id":13,
+        "nombre": "Familiar 3Lts Especiales",
+        "detalle": "Pueden contener aleatoreamente cualquier sabor de nuestro gustero",
+        "imagen": "./img/familiar2.png"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+    "titulo":"Crema",
+    "sabores":[
+        "Americana", 
+        "Banana Split", 
+        "Cookies", "Crema del Cielo", "Crema Rusa", "Flan", "Frutilla a la Reina", "Granizado", "kinder", "Mantecol", "Marroc", "Mascarpone con Frutos del Bosque", "Menta Granizada", "Tramontana", "Vainilla"
+    ]
+   },
+   {
+    "titulo":"Frutales a la Crema",
+    "sabores":[
+        "Banana", "Cereza ","Durazno ","Frutilla ","Frutos del Bosque "
+    ]
+   },
+   {
+    "titulo":"Chocolates",
+    "sabores":[
+        "Chocolate ", " Chocolate Blanco", " Chocolate con Almendras", " Chocolate con Cerezas", " Chocolate Nevado"
+    ]
+   },
+   {
+    "titulo":"Dulces de Leche",
+    "sabores":[
+        "Dulce de Leche", " Dulce de Leche Granizado", " Dulce de Leche con Nueces", " Dulce de Leche Patagonico"
+    ]
+   },
+   {
+    "titulo":"Frutales al Agua",
+    "sabores":[
+        "Ananá", "Frutilla", "Naranja","Limón"
+    ]
+   }
+]
